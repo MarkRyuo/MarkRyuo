@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <mark>Jhon Mark</mark> <sup>MarkRyuo</sup>
+- 👋 Hi, I’m <i>Jhon Mark</i> <sup>MarkRyuo</sup>
 - 👀 I’m interested in Grinding skill<sup>Editing,Designing,LogoDesigning,Drawing,Animation</sup>
 - 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,<sub>NODE.JS,GIT</sub>
 - 💞️ I’m looking to collaborate on Creating Website
