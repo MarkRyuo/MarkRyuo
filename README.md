@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jhon Mark <sup>MarkRyuo</sup>
 - 👀 I’m interested in Grinding skill<sup>Editing,Designing,LogoDesigning,Drawing,Animation</sup>
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,NODE.JS,GIT
+- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,<sub>NODE.JS,GIT</sub>
 - 💞️ I’m looking to collaborate on Creating Website
 - 📫 How to reach me : email me malupajhonmark3035@gmail.com
 
