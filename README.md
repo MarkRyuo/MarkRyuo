@@ -1,21 +1,15 @@
-- 👋 Hi, I’m <i>Jhon Mark</i> <sup>MarkRyuo</sup>
-- 👀 I’m interested in Grinding skill<sup>Editing,Designing,LogoDesigning,Drawing,Animation</sup>
-- 🌱 I’m currently learning <i>HTML,CSS,JAVASCRIPT,<sub>NODE.JS,GIT</sub> </i>
-- 💞️ I’m looking to collaborate on <i>Creating Website</i>
-- 📫 How to reach me : email me malupajhonmark3035@gmail.com
-
 
 <!--MarkRyuo/MarkRyuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->
 
-1 align="center">Hi 👋, I'm Jhon Mark Malupa(RyuoMark)</h1>
+<h1 align="center">Hi 👋, I'm Jhon Mark Malupa(RyuoMark)</h1>
 <h3 align="center">A Student in Batangas State University</h3>
 
-- 🌱 I’m currently learning **Html,Css,JavaScript,Nodejs,git**
-
-- 👯 I’m looking to collaborate on **Creating Simple Website**
-
+- 👋 Hi, I’m <i>Jhon Mark</i> <sup>MarkRyuo</sup>
+- 👀 I’m interested in Grinding skill<sup>Editing,Designing,LogoDesigning,Drawing,Animation</sup>
+- 🌱 I’m currently learning <i>HTML,CSS,JAVASCRIPT,<sub>NODE.JS,GIT</sub> </i>
+- 💞️ I’m looking to collaborate on <i>Creating Website</i>
 - 📫 How to reach me **malupajhonmark3035**
 
 <h3 align="left">Connect with me:</h3>
