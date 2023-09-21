@@ -23,4 +23,4 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=markryuo&show_icons=true&locale=en" alt="markryuo" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=markryuo&" alt="markryuo" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=markryuo&" alt="markryuo" /></p>
