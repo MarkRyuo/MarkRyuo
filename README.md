@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on <i>Creating Website</i>
 - 📫 How to reach me **malupajhonmark3035gmail.com**
 
-<h3 align="left">Connect with me: malupajhonmark3035@gmail.com </h3>
+<h3 align="left">Mark Ryuo Desu</h3>
 <p align="left">
 </p>
 
