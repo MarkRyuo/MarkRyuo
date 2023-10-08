@@ -23,4 +23,3 @@ You can click the Preview link to take a look at your changes.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkRyuo&show_icons=true&theme=radical)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=markryuo&" alt="markryuo" /></p>
