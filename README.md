@@ -21,6 +21,6 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=markryuo&show_icons=true&locale=en&layout=compact" alt="markryuo" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=markryuo&show_icons=true&locale=en" alt="markryuo" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkRyuo&show_icons=true&theme=radical)
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=markryuo&" alt="markryuo" /></p>
