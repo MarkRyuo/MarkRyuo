@@ -2,7 +2,7 @@
 <!--MarkRyuo/MarkRyuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes..
 -->
-<p align="center" width="20" height="20" ><img src="https://i.pinimg.com/originals/f4/ef/15/f4ef15e0c6606526be5866fd00cdd86d.jpg"></p>
+<p align="center"><img width="350" height="350" src="https://i.pinimg.com/originals/f4/ef/15/f4ef15e0c6606526be5866fd00cdd86d.jpg"></p>
 <h1 align="center">Hi 👋, I'm Jhon Mark Malupa "Mark as Ryuo"</h1>
 <h3 align="center">A Student in Batangas State University Lipa</h3>
 
