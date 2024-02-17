@@ -24,8 +24,6 @@ You can click the Preview link to take a look at your changes..
 
 
 
-# 💻 Tech Stack:
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MarkRyuo&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MarkRyuo&theme=dark&hide_border=true)<br/>
