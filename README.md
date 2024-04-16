@@ -29,6 +29,7 @@ You can click the Preview link to take a look at your changes..
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MarkRyuo&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkRyuo&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+<a href="https://calculat.io/en/date/how-many-until/16-october-2024">How Many Days Until October 16, 2024? - Calculatio</a>
 
 
 
