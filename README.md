@@ -27,6 +27,7 @@ You can click the Preview link to take a look at your changes..
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MarkRyuo&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MarkRyuo&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkRyuo&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 
