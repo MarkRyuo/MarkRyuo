@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m <i>Jhon Mark</i> <sup>MarkRyuo</sup>
 - 👀 I’m interested in Grinding skill<sup>Editing,Designing,LogoDesigning,Drawing,Animation</sup>
-- 🌱 I’m currently learning <i>JAVASCRIPT & Python <sub>NODE.JS,GIT</sub> </i>
+- 🌱 I’m currently learning <i>JavaScript & Python <sub>NODE.JS,GIT</sub> </i>
 - 💞️ I’m looking to collaborate on <i>Creating Website</i>
 - 📫 How to reach me **malupajhonmark3035gmail.com**
 
