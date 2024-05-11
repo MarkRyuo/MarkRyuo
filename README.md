@@ -8,11 +8,11 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m <i>Jhon Mark</i> <sup>MarkRyuo</sup>
 - 👀 I’m interested in Grinding skill<sup>Editing,Designing,LogoDesigning,Drawing,Animation</sup>
-- 🌱 I’m currently learning <i>JavaScript & Python <sub>NODE.JS,GIT</sub> </i>
-- 💞️ I’m looking to collaborate on <i>Creating Website</i>
+- 🌱 I’m currently learning <i>JavaScript & Python <sub>NODE.JS,GIT,Docker</sub> </i>
+- 💞️ I’m looking to collaborate on <i>Creating project/Websites</i>
 - 📫 How to reach me **malupajhonmark3035gmail.com**
 
-<h3 align="left">Mark Ryuo Desu</h3>
+<h3 align="left">Mark Ryuo Desu!</h3>
 <p align="left">
 </p>
 
