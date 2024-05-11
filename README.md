@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes..
 -->
 <p align="center"><img width="350" height="350" src="https://i.pinimg.com/originals/f4/ef/15/f4ef15e0c6606526be5866fd00cdd86d.jpg"></p>
 <h1 align="center">Hi 👋, I'm Jhon Mark Malupa "Mark as Ryuo"</h1>
-<h3 align="center">A Student in Batangas State University Lipa</h3>
+<h3 align="center">Student Of <a href= "https://batstateu.edu.ph/campuses/lipa/"> </h3>
 
 - 👋 Hi, I’m <i>Jhon Mark</i> <sup>MarkRyuo</sup>
 - 👀 I’m interested in Grinding skill<sup>Editing,Designing,LogoDesigning,Drawing,Animation</sup>
