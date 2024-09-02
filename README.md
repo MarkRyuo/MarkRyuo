@@ -3,7 +3,7 @@
 You can click the Preview link to take a look at your changes.
 -->
 <p align="center"><img width="350" height="350" src="https://i.pinimg.com/originals/f4/ef/15/f4ef15e0c6606526be5866fd00cdd86d.jpg"></p>
-<h1 align="center">Hi 👋, I'm Jhon Mark Malupa "Ryuo"</h1>
+<h1 align="center">Hi 👋, I'm Jhon Mark Malupa "Ryuda"</h1>
 <h3 align="center">Student of Lipa | Batangas State University </h3>
 
 - 👋 Hi, I’m <i>Jhon Mark</i> <sup>MarkRyuo</sup>
@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on <i>Creating project/Websites</i>
 - 📫 How to reach me **malupajhonmark3035gmail.com**
 
-<h3 align="left">Mark Ryuo Desu!</h3>
+<h3 align="left">Ryuoda Desu!</h3>
 <p align="left">
 </p>
 
