@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <div>
     <p align="left"><img width="1080" height="500" src="https://i.pinimg.com/736x/06/6f/a2/066fa2cb37aa563522fa6c1f0760d172.jpg"></p>
-    <h3 align="center">Hi 👋, I'm Malupa, Jhon Mark "Ryuda" L.</h3>
+    <h3 align="center">Hi 👋, I'm Malupa, Jhon Mark "Ryu" L.</h3>
     <h4 align="left">Student of Lipa | Batangas State University </h4>
 </div>
 
