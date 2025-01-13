@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
     <h4 align="left">Student of Lipa | Batangas State University </h4>
 </div>
 
-- 👋 I’m Ryuoda. 
+- 👋 I’m Ryu. 
 - 👀 I’m Currently Upscaling my skills in Editing, Designing, Drawing and Animation.
 - 🌱 I’m currently learning JavaScript, Python, Typescript, Node.js, Git, Docker, Aws, React.js, React Native, and Bootstrap.  
 - 💞️ I’m looking to collaborate on Creating project/Websites speacially in Front End.
