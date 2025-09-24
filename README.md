@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">Hi, I'm Jhon Mark Malupa.</p>
+<h3 align="center">Hi, I'm Jhon Mark Malupa.</h3>
 
 ###
 
