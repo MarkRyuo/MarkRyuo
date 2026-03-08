@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">Skills</h3>
+<h3 align="left">Technologies</h3>
 
 ###
 
