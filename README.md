@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Hi, I'm Jhon Mark Malupa.</h3>
+<h3 align="center">Hi, I'm Jhon Mark</h3>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- I’m Ryu.<br>- I’m Currently Upscaling my skills<br>-  I’m currently learning JavaScript and React.<br>- I’m looking to collaborate on Creating project/Websites.<br>- How to reach me jhonmarkmalupa3035m@gmail.com</p>
+<p align="left">- I’m Jhon Mark (Arcx).<br>- I’m Currently Upscaling my skills<br>-  I’m learning JavaScript and React.<br>- I’m looking to collaborate on Creating project/Websites.<br>- How to reach me malupajhonmark3035@gmail.com</p>
 
 ###
 
