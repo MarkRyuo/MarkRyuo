@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="200" src="./Gif102.gif"  />
-</div>
-
-###
 
 <h3 align="center">Hi, I'm Jhon Mark</h3>
 
@@ -12,12 +7,12 @@
 
 ###
 
-<p align="left">- I’m Jhon Mark (Arcx).<br>- I’m Currently Upscaling my skills<br>-  I’m learning JavaScript and React.<br>- I’m looking to collaborate on Creating project/Websites.<br>- How to reach me malupajhonmark3035@gmail.com</p>
+<p align="left">- I’m Jhon Mark (Arcz).<br>- I’m Currently Upscaling my skills<br>-  I’m learning JavaScript and React.<br>- I’m looking to collaborate on Creating project/Websites.<br>- How to reach me malupajhonmark3035@gmail.com</p>
 
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarkRyuo.MarkRyuo&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ArcztheChosen.ArcztheChosen&"  />
 </div>
 
 ###
